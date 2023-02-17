@@ -1,5 +1,4 @@
 #  ![image](https://github.com/NatashaSmolyak/Java-Script/blob/main/assets/JS-header-image.png)
----
 ## [Home work 1.](https://github.com/NatashaSmolyak/Java-Script/blob/main/HW_1_JS.js)
 1. Создать переменную “item_1”
 ```let item_1```
